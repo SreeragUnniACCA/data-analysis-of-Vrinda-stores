@@ -4,12 +4,12 @@ Vrinda Store wants to create an annual report for 2022 so that the owner can bet
 ## Dataset used
 - <a href='https://github.com/SreeragUnniACCA/data-analysis-of-Vrinda-stores/blob/main/sales%20data-%20vrinda%20stores.xlsx'>Dataset</a>
 ## Questions [ KPIs ]
-- compare the sales and order using single chart
-- which month got the highest sales and orders ?
-- who purchased more - Men or Women ?
-- what are different order status in 2022 ?
-- list top 10 states contributing the sales ?
-- relation between age and gender based on number of orders ?
+- Compare the sales and order using single chart
+- Which month got the highest sales and orders ?
+- Who purchased more - Men or Women ?
+- What are different order status in 2022 ?
+- List top 10 states contributing the sales ?
+- Relation between age and gender based on number of orders ?
 - Highest selling category ?
 - Percentage of tota orders delivered ?
   Dashboard interaction <a href="https://github.com/SreeragUnniACCA/data-analysis-of-Vrinda-stores/blob/main/dashboard.png">View Dashboard</a>
@@ -21,4 +21,14 @@ Vrinda Store wants to create an annual report for 2022 so that the owner can bet
 
 ## Dashboard
 ![dashboard](https://github.com/user-attachments/assets/c9aa6926-4c3d-4abc-83e4-08080d91f9a8)
+
+## Project Insight
+- Women costomers are more likely to buy products compared to men (65%)
+- The state of Maharashtra, Karnataka and U.P are top 3 buyers
+- The adult age group ( 30 - 49 ) is the highest contributor (50%) and buys most products
+- the maximum number of products customers orders from Amazon, Flipkart and Myntra channels
+- More than 90% of the products are delivered
+
+  ## Final conclusion
+  To improve the sales of Vrinda Stores, a Strategic marketing focused on woman aged 30 - 49 years residing Maharashtra, Karnataka and U.P should be implemented. This demographic represents a key consumer segment , as they often make significant household and lifestyle purchases. The approach should include targeted difital marketing campaigns and personalized promotions to capture their attention. 
 
