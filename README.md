@@ -23,6 +23,7 @@ Vrinda Store wants to create an annual report for 2022 so that the owner can bet
 ![dashboard](https://github.com/user-attachments/assets/c9aa6926-4c3d-4abc-83e4-08080d91f9a8)
 
 ## Project Insight
+ <a href='https://github.com/SreeragUnniACCA/data-analysis-of-Vrinda-stores/blob/main/sales%20data-%20vrinda%20stores.xlsx'>Data Analysis Excel File</a>
 - Women costomers are more likely to buy products compared to men (65%)
 - The state of Maharashtra, Karnataka and U.P are top 3 buyers
 - The adult age group ( 30 - 49 ) is the highest contributor (50%) and buys most products
